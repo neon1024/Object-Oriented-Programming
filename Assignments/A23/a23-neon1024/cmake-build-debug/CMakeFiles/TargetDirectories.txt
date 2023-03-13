@@ -1,0 +1,3 @@
+C:/Users/MSI/OneDrive/Desktop/Coding Spaces/UBB Coding Space/Object Oriented Programming/Assignments/A23/a23-neon1024/cmake-build-debug/CMakeFiles/a23_neon1024.dir
+C:/Users/MSI/OneDrive/Desktop/Coding Spaces/UBB Coding Space/Object Oriented Programming/Assignments/A23/a23-neon1024/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MSI/OneDrive/Desktop/Coding Spaces/UBB Coding Space/Object Oriented Programming/Assignments/A23/a23-neon1024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
