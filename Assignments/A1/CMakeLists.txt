@@ -4,4 +4,4 @@ project(A1 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(A1
-        a1-neon1024-1/main.c)
+        a1-neon1024-1/main.c a1-neon1024-1/main.h)
